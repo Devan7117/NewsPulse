@@ -1,0 +1,16 @@
+fastapi
+pydantic
+requests
+streamlit
+plotly
+keybert
+vaderSentiment
+gTTS
+nltk
+transformers
+torch
+uvicorn
+python-multipart
+starlette
+pandas
+numpy
