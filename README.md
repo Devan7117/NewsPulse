@@ -5,7 +5,7 @@
 NewsPulse analyzes news articles related to a company, extracts key insights, performs sentiment analysis, and provides a Hindi audio summary.  
 
 ## 🌐 Live Demo  
-- **Hugging Face:** [NewsPulse](https://huggingface.co/spaces/devansuresh/Test-news)  
+- **Hugging Face:** [NewsPulse](https://huggingface.co/spaces/devan-s/NewsPulse)
 - **Vercel:** [NewsPulse](https://my-huggingface-app.vercel.app/)  
 
 ---
