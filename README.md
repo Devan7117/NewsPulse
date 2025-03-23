@@ -31,46 +31,6 @@ NewsPulse analyzes news articles related to a company, extracts key insights, pe
 
 ---
 
-## 🚀 Installation & Setup  
-
-### Prerequisites  
-- **Python 3.8+**  
-- **Pip**  
-
-### Steps  
-
-1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/NewsPulse.git
-cd NewsPulse
-```
-
-2️⃣ **Install Dependencies**  
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ **Set Up API Key**  
-Create a `.env` file and add:  
-```
-GNEWS_API_KEY=your_api_key_here
-```
-
-4️⃣ **Run Backend**  
-```bash
-uvicorn api:app --host 0.0.0.0 --port 8000
-```
-
-5️⃣ **Run Frontend**  
-```bash
-streamlit run app.py
-```
-
-6️⃣ **Access the App**  
-Go to: `http://localhost:8501`  
-
----
-
 ## 🖥 Usage  
 
 1️⃣ Enter a **Company Name** (e.g., Tesla).  
