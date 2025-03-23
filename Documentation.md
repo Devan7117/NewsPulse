@@ -13,8 +13,8 @@ This project analyzes news articles related to a given company, performs sentime
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Devan7117/NewsPulse.git
+   cd NewsPulse
    ```
 
 2. Install the required dependencies:
