@@ -94,15 +94,18 @@ Go to: `http://localhost:8501`
 
 ---
 
-## 📜 License  
+## License 📜
 
-**MIT License** – Free to use and modify.  
+© 2025 Devan. All Rights Reserved.  
+This project is proprietary and cannot be copied, modified, distributed, or used without explicit permission from the owner.  
+
+For inquiries regarding usage rights, please contact: **devandev9400@gmail.com**.
 
 ---
 
 ## 📧 Contact  
 
-- **GitHub:** [Devansu Yadav](https://github.com/yourusername)  
-- **LinkedIn:** [Devansu Yadav](https://www.linkedin.com/in/yourusername)  
+- **GitHub:** [Devan](https://github.com/Devan7117)
+- **LinkedIn:** [Devan](https://www.linkedin.com/in/devan-s-9941591b7/)  
 
-🔥 **Developed by Devansu Yadav** 🚀  
+🔥 **Developed by Devan S** 🚀  
